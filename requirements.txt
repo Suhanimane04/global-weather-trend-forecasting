@@ -1,0 +1,13 @@
+# Core
+pandas
+numpy
+matplotlib
+scikit-learn
+statsmodels
+pmdarima
+# Optional (uncomment if needed)
+# xgboost
+# lightgbm
+# plotly
+# geopandas
+# shap
